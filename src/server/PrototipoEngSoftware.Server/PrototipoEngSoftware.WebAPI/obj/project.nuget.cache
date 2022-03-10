@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/23LPx1Mkem8s87zL6ygW/wPOvUrjFdAvWT/3qWSH/bYFKlEOU0ydskT0s2wK9zPVAvgFNKSJwz8uXuLbToTA==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\prototipo-eng-software\\src\\server\\PrototipoEngSoftware.Server\\PrototipoEngSoftware.WebAPI\\PrototipoEngSoftware.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
