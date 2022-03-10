@@ -1,0 +1,12 @@
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\PrototipoEngSoftware.Infra.Data.deps.json
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\PrototipoEngSoftware.Infra.Data.dll
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\ref\PrototipoEngSoftware.Infra.Data.dll
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\PrototipoEngSoftware.Infra.Data.pdb
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.csproj.AssemblyReference.cache
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.AssemblyInfoInputs.cache
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.AssemblyInfo.cs
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.csproj.CoreCompileInputs.cache
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.dll
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\ref\PrototipoEngSoftware.Infra.Data.dll
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.pdb

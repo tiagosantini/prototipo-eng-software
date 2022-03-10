@@ -1,7 +1,11 @@
-﻿namespace PrototipoEngSoftware.Dominio.Shared
+﻿using System.Collections.Generic;
+
+namespace PrototipoEngSoftware.Dominio.Shared
 {
-    public interface IRepository<IEntity>
+    public interface IRepository<T> where T : Entidade
     {
-        bool Inserir(IEntity entidade);
+        bool Inserir(T entidade);
+        T SelecionarPorId(int id);
+        ICollection<T> SelecionarTodos();
     }
 }
