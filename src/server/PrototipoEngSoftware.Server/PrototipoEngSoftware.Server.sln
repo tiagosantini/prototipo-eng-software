@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Infraestrutura", "2 - I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domínio", "3 - Domínio", "{1D2C1548-9B60-473B-8248-297B008900A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototipoEngSoftware.Infra.EntityFramework", "PrototipoEngSoftware.Infra.EntityFramework\PrototipoEngSoftware.Infra.EntityFramework.csproj", "{5F0B46C3-E992-42B6-BD66-8E236B663D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7A6A9038-10A5-4FD4-A945-6FE2560A60BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A6A9038-10A5-4FD4-A945-6FE2560A60BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A6A9038-10A5-4FD4-A945-6FE2560A60BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0B46C3-E992-42B6-BD66-8E236B663D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0B46C3-E992-42B6-BD66-8E236B663D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0B46C3-E992-42B6-BD66-8E236B663D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0B46C3-E992-42B6-BD66-8E236B663D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{5C68FD70-BCEB-48E7-84F3-B3D1E4269AC3} = {1D015C8F-00CB-41F0-9A1D-8B68F12074F6}
 		{1003B026-C355-4DDE-AEFB-310E3A1B1583} = {EC25BBBA-D42A-4A33-A5C5-7F879744681C}
 		{7A6A9038-10A5-4FD4-A945-6FE2560A60BD} = {1D2C1548-9B60-473B-8248-297B008900A0}
+		{5F0B46C3-E992-42B6-BD66-8E236B663D9F} = {EC25BBBA-D42A-4A33-A5C5-7F879744681C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50F11039-8067-48CD-89EC-78FB88D92347}

@@ -1,7 +1,10 @@
-﻿namespace PrototipoEngSoftware.Dominio.Shared
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PrototipoEngSoftware.Dominio.Shared
 {
     public abstract class Entidade
     {
-        int Id { get; set; }
+        [Key]
+        public int Id { get; set; }
     }
 }

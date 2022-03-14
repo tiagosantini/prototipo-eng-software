@@ -10,3 +10,6 @@ D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\Protot
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\ref\PrototipoEngSoftware.Infra.Data.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.pdb
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\PrototipoEngSoftware.Dominio.dll
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\bin\Debug\net5.0\PrototipoEngSoftware.Dominio.pdb
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Infra.Data\obj\Debug\net5.0\PrototipoEngSoftware.Infra.Data.csproj.CopyComplete

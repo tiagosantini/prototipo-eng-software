@@ -2,7 +2,6 @@ D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\Protot
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\bin\Debug\net5.0\PrototipoEngSoftware.Dominio.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\bin\Debug\net5.0\ref\PrototipoEngSoftware.Dominio.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\bin\Debug\net5.0\PrototipoEngSoftware.Dominio.pdb
-D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.csproj.AssemblyReference.cache
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.GeneratedMSBuildEditorConfig.editorconfig
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.AssemblyInfoInputs.cache
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.AssemblyInfo.cs
@@ -10,3 +9,4 @@ D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\Protot
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\ref\PrototipoEngSoftware.Dominio.dll
 D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.pdb
+D:\projetos\prototipo-eng-software\src\server\PrototipoEngSoftware.Server\PrototipoEngSoftware.Dominio\obj\Debug\net5.0\PrototipoEngSoftware.Dominio.csproj.AssemblyReference.cache

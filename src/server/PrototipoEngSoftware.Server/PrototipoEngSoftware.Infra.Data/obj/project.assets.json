@@ -289,6 +289,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "PrototipoEngSoftware.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PrototipoEngSoftware.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrototipoEngSoftware.Dominio.dll": {}
+        }
       }
     }
   },
@@ -883,6 +893,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "PrototipoEngSoftware.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../PrototipoEngSoftware.Dominio/PrototipoEngSoftware.Dominio.csproj",
+      "msbuildProject": "../PrototipoEngSoftware.Dominio/PrototipoEngSoftware.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -890,6 +905,7 @@
       "Microsoft.Extensions.Configuration >= 6.0.1",
       "Microsoft.Extensions.Configuration.FileExtensions >= 6.0.0",
       "Microsoft.Extensions.Configuration.Json >= 6.0.0",
+      "PrototipoEngSoftware.Dominio >= 1.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
   },
@@ -919,7 +935,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\projetos\\prototipo-eng-software\\src\\server\\PrototipoEngSoftware.Server\\PrototipoEngSoftware.Dominio\\PrototipoEngSoftware.Dominio.csproj": {
+              "projectPath": "D:\\projetos\\prototipo-eng-software\\src\\server\\PrototipoEngSoftware.Server\\PrototipoEngSoftware.Dominio\\PrototipoEngSoftware.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,6 +1,7 @@
 ﻿namespace PrototipoEngSoftware.Dominio.ContaModule
 {
-    public class MovimentacaoBancaria
+    public enum TipoMovimentacao
     {
+        Credito, Debito
     }
 }
